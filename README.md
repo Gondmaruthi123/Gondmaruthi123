@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Gondmaruthi123
+- 👋 Hi, I’m @Gond Maruthi
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Ethical Hacking 
 - 💞️ I’m looking to collaborate on Cybersecurity Jobs 
 - 📫 How to reach me On Linkedin : Gond Maruthi
-- 😄 Pronouns: Mr
+- 😄 Pronouns: Mr Gond Maruthi
 - ⚡ Fun fact: ...
 
 <!---
